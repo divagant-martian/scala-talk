@@ -152,7 +152,7 @@ Es decir:
 - <span>Código <span class="dgray">menos repetitivo</span> &#10003; </span> |
 
 ---
-###Tipos de datos inmutables
+###Tipos de datos <span class="red">inmutables</span>
 
 +++
 
