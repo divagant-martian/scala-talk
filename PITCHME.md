@@ -1,6 +1,5 @@
 ![LOGO](https://github.com/zombiefungus/scala-talk/raw/master/assets/images/scala-logo.png)
 
-
 #### 
 Try **bold** *italics* ~~strike~~  
 
