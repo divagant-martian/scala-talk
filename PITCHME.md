@@ -76,7 +76,7 @@ Programación Funcional
 <span class="red">Compilado</span>
 ```scala
 object HelloWorld extends App {
-  println("Hello, World!")
+println("Hello, World!")
 }
 ```
 <span class="red">Interpretado</span>
@@ -96,7 +96,7 @@ Un ejemplo en <span class="dgray">Python</span>
 
 ```python
 def foo(x):
-	return x*3
+return x*3
 ```
 
 Qué tipo de dato recibe?
@@ -172,6 +172,14 @@ Por ejemplo
 
 Estructuras de alto nivel <span class="red">más eficientes</span>
 
++++
+
+declaración de variables no re-asignables
+
+```scala
+val x = "hola"
+var y = ">.<"
+```
 ---
 ###<span class="red">Sobrecarga</span> de operadores
 
@@ -210,6 +218,59 @@ tiene algunas implicaciones interesantes
 
 <span class="paren">[ más en un momento ]</span>
 
+---
+###Relajación de Sintaxis
+
+<span class="paren">[ recordemos ]</span>
+
+####<span class="red">operador = método</span>
+
+entonces, por ejemplo
+
++++
+
+Este código
+
+```scala
+1 + 2
+```
+
+Es equivalente a
+
+```scala
+1.+(2)
+```
+
++++
+
+Esto implica que
+
+```scala
+class X {
+def foo(x:Int):String = {
+"oli :)"
+}
+}
+
+val x = new X()
+x.foo(3)
+```
+
++++
+
+Se puede escribir como
+
+
+```scala
+class X {
+def foo(x:Int):String = {
+"oli :)"
+}
+}
+
+val x = new X()
+x foo 3
+```
 ---
 ###Evaluación perezosa
 
