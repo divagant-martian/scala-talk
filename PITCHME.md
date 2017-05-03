@@ -94,22 +94,24 @@ println("Hello, World!")
 ---
 ###Fuerte sistema de tipado estático
 
-- [x] Typesafe
+Un ejemplo en <span class="dgray">Python</span>
 
 ```python
 def foo(x):
     return x*3
 ```
 
-<span class="paren">`foo(4) == 12`</span>
+Qué tipo de dato recibe?
 
-<span class="paren">`foo("what?!") == "what?!what?!what?!"`</span>
+Qué tipo de dato retorna?
 
-<span class="paren">`foo(True) == 3`</span>
+---
 
-<span class="paren">`foo(False) == 0`</span>
-
-<span class="paren">`foo({'one':'uno'})` -> `unsupported operand type(s) for *: 'dict' and 'int'`</span>
+- <span class="paren">`foo(4) == 12`</span>
+- <span class="paren">`foo("what?!") == "what?!what?!what?!"`</span>
+- <span class="paren">`foo(True) == 3`</span>
+- <span class="paren">`foo(False) == 0`</span>
+- <span class="paren">`foo({'one':'uno'})` -> `unsupported operand type(s) for *: 'dict' and 'int'`</span>
 
 ---
 
