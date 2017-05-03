@@ -27,7 +27,7 @@ Programación Funcional
 <span class="paren">[ Uso de librerías sin distinción ]</span>
 
 ---
-#### <span class="red">Lo mejor de dos mundos</span>
+####Lo mejor de dos mundos
 ### <span class="orange">Objetos</span>
 
 <span class="paren">[ Reutilización de código, Encapsulamiento, ... ]</span>
@@ -75,20 +75,29 @@ Programación Funcional
 
 ---
 
-##Hola Mundo <span class="paren">4 formas</span>
+###Hola Mundo
 
-Compilado
+<span class="red">Compilado</span>
 ```scala
 object HelloWorld extends App {
 println("Hello, World!")
 }
 ```
-Interpretado
+<span class="red">Interpretado</span>
 ```scala
 println("Hello, World!")
 ```
 
 ---
+##Features
+
+---
+Fuerte sistema de tipado estático
+Inferencia de tipos
+Tipos de datos inmutables
+Evaluación peresoza
+Programación de alto orden
+Sobrecarga de operadores
 
 <span style="color: #e49436">STEP 2. GIT-COMMIT</span>
 
