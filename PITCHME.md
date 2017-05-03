@@ -25,7 +25,7 @@ Programación Funcional
 
 <span class="paren">[ Java Bitecode -> JVM ]</span>
 
-<span class="paren">[ Uso de librarias sin distinción ]</span>
+<span class="paren">[ Uso de librerías sin distinción ]</span>
 
 ---
 
