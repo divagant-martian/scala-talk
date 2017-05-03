@@ -92,13 +92,19 @@ println("Hello, World!")
 ##Features
 
 ---
-Fuerte sistema de tipado estático
-Inferencia de tipos
-Tipos de datos inmutables
-Evaluación peresoza
-Programación de alto orden
-Sobrecarga de operadores
+###Fuerte sistema de tipado estático
 
+###Inferencia de tipos
+
+###Tipos de datos inmutables
+
+###Evaluación peresoza
+
+###Programación de alto orden
+
+###Sobrecarga de operadores
+
+###
 <span style="color: #e49436">STEP 2. GIT-COMMIT</span>
 
 ![TERMINAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/terminal.png)
