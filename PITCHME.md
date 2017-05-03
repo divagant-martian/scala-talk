@@ -104,10 +104,10 @@ Qué tipo de dato retorna?
 +++
 
 - <span class="paren">`foo(4) == 12`</span>
-- <span class="paren">`foo("what?!") == "what?!what?!what?!"`</span>
-- <span class="paren">`foo(True) == 3`</span>
-- <span class="paren">`foo(False) == 0`</span>
-- <span class="dgray">`foo({'one':'uno'})`</span> -> `unsupported operand type(s) for *: 'dict' and 'int'`
+- <span class="paren">`foo("what?!") == "what?!what?!what?!"`</span>|
+- <span class="paren">`foo(True) == 3`</span>|
+- <span class="paren">`foo(False) == 0`</span>|
+- <span class="dgray">`foo({'one':'uno'})`</span> -> `unsupported operand type(s) for *: 'dict' and 'int'`|
 
 ---
 
