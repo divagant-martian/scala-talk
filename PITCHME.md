@@ -1,6 +1,6 @@
-<style type="text/css"> :root{ var-Red:#DE3423 ; var-Brown:#380D09; } </style>
+<style type="text/css"> :root{ var-Red:#DE3423 ;} </style>
 
- ![LOGO](images/scala.svg)
+ ![LOGO](images/scala-logo.png)
 
 
 #### Get the word out
@@ -78,5 +78,7 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present absolutel
 
 ### Go for it.
 ### Just add <span style="color: #e49436; text-transform: none">PITCHME.md</span> ;)
+
+```
 
 ```
