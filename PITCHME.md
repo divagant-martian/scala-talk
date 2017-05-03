@@ -22,8 +22,10 @@ Programación Funcional
 ####<span class="dgray">Cómo:</span>
 ###Abordando <span class="orange">críticas</span> a Java
 ###Manteniendo <span class="orange">interoperabilidad</span>
+
 <span class="paren">[ Java Bitecode -> JVM ]</span>
-<span class="paren">[ Uso de librarias sin distinción </span>
+
+<span class="paren">[ Uso de librarias sin distinción</span>
 
 ---
 
