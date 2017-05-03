@@ -40,14 +40,8 @@ Programación Funcional
 ---
 #### <span class="red">¿Quién lo usa?</span>
 
-<img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-square2-128.png" alt="LinkedIn" height="100">
-<img src="https://edubloxtutor.com/wp-content/uploads/2016/11/twitter-3-xxl.png" alt="Twitter" height="100">
-<img src="https://www.shareicon.net/data/128x128/2016/07/16/796802_logo_512x512.png" alt="Foursquare" height="100">                                 
-<img src="https://img.clipartfest.com/41febf049d705f818380e1f03ed4e091_free-icons-clipart-netflix_256-256.png" alt="Netflix" height="100">                                   
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Tumblr.svg/256px-Tumblr.svg.png" alt="Tumblr" height="100">                                    
-<img src="http://www.omavahti.fi/wp-content/uploads/2015/02/sony-logo-slogan.png" alt="Sony" height="100">                                      
-<img src="http://riga.esn.lv/sites/default/files/partners/images/airbnb.png" alt="AirBnB" height="100">                                                                  
-<img src="http://icons.iconarchive.com/icons/danleech/simple/256/meetup-icon.png" alt="Meetup" height="100">  
+<img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-square2-128.png" alt="LinkedIn" height="100"><img src="https://edubloxtutor.com/wp-content/uploads/2016/11/twitter-3-xxl.png" alt="Twitter" height="100"><img src="https://www.shareicon.net/data/128x128/2016/07/16/796802_logo_512x512.png" alt="Foursquare" height="100"><img src="https://img.clipartfest.com/41febf049d705f818380e1f03ed4e091_free-icons-clipart-netflix_256-256.png" alt="Netflix" height="100"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Tumblr.svg/256px-Tumblr.svg.png" alt="Tumblr" height="100">                                    
+<img src="http://www.omavahti.fi/wp-content/uploads/2015/02/sony-logo-slogan.png" alt="Sony" height="100"><img src="http://riga.esn.lv/sites/default/files/partners/images/airbnb.png" alt="AirBnB" height="100"><img src="http://icons.iconarchive.com/icons/danleech/simple/256/meetup-icon.png" alt="Meetup" height="100">  
 
 
 Create GitPitch slideshow content using GitHub flavored Markdown in your favorite editor.
