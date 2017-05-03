@@ -10,14 +10,14 @@ Programación Funcional
 
 ##¿Por qué crear Scala?
 
----
-
++++
 
 ####<span class="dgray">Idea</span>
 ###<span class="orange">Mejorar</span> Java
 ###sin <span class="orange">conflictuar</span> con este
 
----
++++
+
 ####<span class="dgray">Cómo</span>
 ###Abordando <span class="orange">críticas</span> a Java
 ###Manteniendo <span class="orange">interoperabilidad</span>
@@ -56,8 +56,6 @@ Programación Funcional
      alt="Meetup" height="100">
 <img src="http://www.omavahti.fi/wp-content/uploads/2015/02/sony-logo-slogan.png" alt="Sony" height="100">
 
-+++
-
 ---
 #### <span class="red">Herramientas en Scala</span>
 
@@ -70,8 +68,6 @@ Programación Funcional
      alt="Samza" height="100">
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Akka_toolkit_logo.svg/1280px-Akka_toolkit_logo.svg.png"
      alt="Akka" height="100">
-
-+++
 
 ---
 
@@ -92,26 +88,26 @@ println("Hello, World!")
 ##Features
 
 ---
-###Fuerte sistema de tipado estático
+###Fuerte sistema de tipado <span class="red">estático</span>
 
 Un ejemplo en <span class="dgray">Python</span>
 
 ```python
 def foo(x):
-    return x*3
+return x*3
 ```
 
 Qué tipo de dato recibe?
 
 Qué tipo de dato retorna?
 
----
++++
 
 - <span class="paren">`foo(4) == 12`</span>
 - <span class="paren">`foo("what?!") == "what?!what?!what?!"`</span>
 - <span class="paren">`foo(True) == 3`</span>
 - <span class="paren">`foo(False) == 0`</span>
-- <span class="paren">`foo({'one':'uno'})` -> `unsupported operand type(s) for *: 'dict' and 'int'`</span>
+- <span class="dgray">`foo({'one':'uno'})`</span> -> `unsupported operand type(s) for *: 'dict' and 'int'`
 
 ---
 
@@ -129,6 +125,8 @@ Esto también
 String str = "DAHH, soy un String!!"
 ```
 
++++
+
 Esto requiere más esfuerzo
 
 ```java
@@ -137,10 +135,11 @@ private int tres() { return 3; }
 int mi3 = tres();
 ```
 
-Pero es posible
+<span class="red">Pero es posible</span>
 
 ---
 ###Tipos de datos inmutables
+
 
 ---
 ###Evaluación peresoza
