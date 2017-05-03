@@ -1,6 +1,5 @@
 ![LOGO](https://github.com/zombiefungus/scala-talk/raw/master/assets/images/scala-logo.png)
 
-####
 Programación Orientada a Objetos
 
 <span class="red">+</span>
@@ -57,8 +56,21 @@ Programación Funcional
      alt="Meetup" height="100">
 <img src="http://www.omavahti.fi/wp-content/uploads/2015/02/sony-logo-slogan.png" alt="Sony" height="100">
 
++++
 
-Create GitPitch slideshow content using GitHub flavored Markdown in your favorite editor.
+---
+#### <span class="red">Herramientas en Scala</span>
+
+<img src="https://svbtleusercontent.com/ivdemz9z9lsm6g_small.png"
+     alt="Spark" height="100">
+<img src="https://svn.apache.org/repos/asf/kafka/site/logos/originals/png/WIDE%20-%20Black%20on%20Transparent.png"
+     alt="Kafka" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Samza_Logo.png"
+     alt="Samza" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Akka_toolkit_logo.svg/1280px-Akka_toolkit_logo.svg.png"
+     alt="Akka" height="100">
+
++++
 
 ---
 
