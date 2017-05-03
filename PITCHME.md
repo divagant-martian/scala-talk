@@ -247,9 +247,9 @@ Esto implica que
 
 ```scala
 class X {
-def foo(x:Int):String = {
-"oli :)"
-}
+	def foo(x:Int):String = {
+		"oli :)"
+	}
 }
 
 val x = new X()
@@ -263,9 +263,9 @@ Se puede escribir como
 
 ```scala
 class X {
-def foo(x:Int):String = {
-"oli :)"
-}
+	def foo(x:Int):String = {
+		"oli :)"
+	}
 }
 
 val x = new X()
