@@ -18,7 +18,7 @@ Programación Funcional
 ###sin <span class="orange">conflictuar</span> con este
 
 ---
-####<span class="dgray">Cómo:</span>
+####<span class="dgray">Cómo</span>
 ###Abordando <span class="orange">críticas</span> a Java
 ###Manteniendo <span class="orange">interoperabilidad</span>
 
