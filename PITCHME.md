@@ -1,20 +1,19 @@
-<style type="text/css"> :root{ var-Red:#DE3423 ;} </style>
-
- ![scala-img	](https://github.com/zombiefungus/scala-talk/raw/master/assets/images/scala-logo.png)
+![LOGO](https://github.com/zombiefungus/scala-talk/raw/master/assets/images/scala-logo.png)
 
 
-#### Get the word out
+#### 
 Try **bold** *italics* ~~strike~~  
 
 ---
 
 ### GitPitch turns **PITCHME.md** into interactive, online slideshows.
+
 <br>
 <span style="color:gray; font-size:0.6em;">[ JUST LIKE THIS ONE ]</span>
 
 ---
 
-### No more <span style="color: #666666">Keynote.</span>
+### No more <span class="red">Keynote.</span>
 ### No more <span style="color: #666666">Powerpoint.</span>
 <br>
 ### Just <span style="color: #e49436">Markdown</span>. Then <span style="color: #e49436">Git-Commit</span>.

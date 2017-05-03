@@ -1,4 +1,12 @@
+:root {
+  --red:#DE3423 ;
+}
+
 .reveal section img {
   border: 0;
   box-shadow: none;
+}
+
+.red {
+  color: var(--red);
 }
