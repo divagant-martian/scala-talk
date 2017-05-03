@@ -76,7 +76,7 @@ Programación Funcional
 <span class="red">Compilado</span>
 ```scala
 object HelloWorld extends App {
-	println("Hello, World!")
+println("Hello, World!")
 }
 ```
 <span class="red">Interpretado</span>
@@ -96,7 +96,7 @@ Un ejemplo en <span class="dgray">Python</span>
 
 ```python
 def foo(x):
-	return x*3
+return x*3
 ```
 
 Qué tipo de dato recibe?
@@ -113,7 +113,7 @@ Qué tipo de dato retorna?
 
 ---
 
-###Inferencia de tipos
+###<span class="red">Inferencia</span> de tipos
 
 +++
 
@@ -143,6 +143,14 @@ Pero <span class="red">es posible</span>
 
 Y Scala lo hace
 
++++
+
+Es decir:
+
+- Type-safe &#10003;
+- Código más <span class="red">legible</span> &#10003; |
+- Código <span class="dgray">menos repetitivo</span> &#10003; |
+
 ---
 ###Tipos de datos inmutables
 
@@ -156,8 +164,13 @@ Y Scala lo hace
 
 Por ejemplo
 
+`scala.collections.Map`
 
+`scala.collections.mutable.HashMap`
 
+`scala.collections.immutable.HashMap`
+
+Estructuras de alto nivel <span class="red">más eficientes</span>
 
 ---
 ###Evaluación perezosa
