@@ -1,5 +1,7 @@
 :root {
-  --red:#DE3423 ;
+  --red:#DE3423;
+  --orange:#e49436;
+  --dgray:#666666;
 }
 
 .reveal section img {
@@ -9,4 +11,12 @@
 
 .red {
   color: var(--red);
+}
+
+.orange {
+  color: var(--orange);
+}
+
+.dgray {
+  color: var(--dgray);
 }

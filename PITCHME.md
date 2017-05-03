@@ -1,18 +1,26 @@
 ![LOGO](https://github.com/zombiefungus/scala-talk/raw/master/assets/images/scala-logo.png)
 
 #### 
-Try **bold** *italics* ~~strike~~  
+Programación Orientada a Objetos <span class="red">+</span> Programación Funcional
 
 ---
 
-### GitPitch turns **PITCHME.md** into interactive, online slideshows.
-
-<br>
-<span style="color:gray; font-size:0.6em;">[ JUST LIKE THIS ONE ]</span>
+##¿Por qué crear Scala?
 
 ---
 
-### No more <span class="red">Keynote.</span>
+
+####<span class="dgray">Idea</span>
+###<span class="orange">Mejorar</span> Java sin <span class="orange">conflictuar</span> con este
+
+---
+####<span class="dgray">Cómo:</span>
+###<span class="red">Abordando críticas</span>a Java
+###Manteniendo <span class="red">interoperabilidad</span>
+
+---
+
+### Lo mejor de dos mundos
 ### No more <span style="color: #666666">Powerpoint.</span>
 <br>
 ### Just <span style="color: #e49436">Markdown</span>. Then <span style="color: #e49436">Git-Commit</span>.
