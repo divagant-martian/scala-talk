@@ -1,7 +1,11 @@
 ![LOGO](https://github.com/zombiefungus/scala-talk/raw/master/assets/images/scala-logo.png)
 
 #### 
-Programación Orientada a Objetos <span class="red">+</span> Programación Funcional
+Programación Orientada a Objetos 
+
+<span class="red">+</span> 
+
+Programación Funcional
 
 ---
 
@@ -11,12 +15,13 @@ Programación Orientada a Objetos <span class="red">+</span> Programación Funci
 
 
 ####<span class="dgray">Idea</span>
-###<span class="orange">Mejorar</span> Java sin <span class="orange">conflictuar</span> con este
+###<span class="orange">Mejorar</span> Java 
+###sin <span class="orange">conflictuar</span> con este
 
 ---
 ####<span class="dgray">Cómo:</span>
-###<span class="red">Abordando críticas</span>a Java
-###Manteniendo <span class="red">interoperabilidad</span>
+###Abordando <span class="orange">críticas</span> a Java
+###Manteniendo <span class="orange">interoperabilidad</span>
 
 ---
 
