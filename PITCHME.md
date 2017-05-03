@@ -1,4 +1,7 @@
-![LOGO](https://d1z75bzl1vljy2.cloudfront.net/img/gp-logo.png)
+<style type="text/css"> :root{ var-Red:#DE3423 ; var-Brown:#380D09; } </style>
+
+ ![LOGO](images/scala.svg)
+```
 
 #### Get the word out
 Try **bold** *italics* ~~strike~~  
@@ -75,3 +78,5 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present absolutel
 
 ### Go for it.
 ### Just add <span style="color: #e49436; text-transform: none">PITCHME.md</span> ;)
+
+```
