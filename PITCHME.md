@@ -1,7 +1,7 @@
 <style type="text/css"> :root{ var-Red:#DE3423 ; var-Brown:#380D09; } </style>
 
  ![LOGO](images/scala.svg)
-```
+
 
 #### Get the word out
 Try **bold** *italics* ~~strike~~  
