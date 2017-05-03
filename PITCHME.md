@@ -112,6 +112,28 @@ return x*3
 
 ###Inferencia de tipos
 
+Esto es obvio
+
+```java
+int num = 14;
+```
+
+Esto también
+
+```
+String str = "DAHH, soy un String!!"
+```
+
+Esto requiere más esfuerzo
+
+```java
+private int tres() { return 3; }
+...
+int mi3 = tres();
+```
+
+Pero es posible
+
 ---
 ###Tipos de datos inmutables
 
