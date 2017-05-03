@@ -146,7 +146,6 @@ Y Scala lo hace
 +++
 
 Es decir:
-
 - Type-safe &#10003;
 - <span>Código más <span class="red">legible</span> &#10003;</span> |
 - <span>Código <span class="dgray">menos repetitivo</span> &#10003; </span> |
@@ -220,6 +219,8 @@ tiene algunas implicaciones interesantes
 
 ---
 ###Relajación de Sintaxis
+
++++
 
 <span class="paren">[ recordemos ]</span>
 
@@ -343,6 +344,8 @@ decelerate a negative"
 ---
 ###`for` como <span class="red">generadores</span>
 
++++
+
 Las iteraciones pueden retornar valores
 
 Si usan la keyword <span class="red">yield</span>
@@ -401,6 +404,6 @@ Muchas más
 - Parámetros opcionales|
 - Pattern Matching|
 - Destructuración|
-- <span class="red">Mónadas</span>|
+- Mónadas|
 
 ---
