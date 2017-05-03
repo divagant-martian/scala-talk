@@ -105,11 +105,11 @@ Qué tipo de dato retorna?
 
 +++
 
-- `foo(4)` -> | `12`
-- `foo(True)` -> | `3`
-- `foo(False)` -> | `0`
-- `foo("what?!")` -> | `"what?!what?!what?!"`
-- `foo({'one':'uno'})` -> | `unsupported operand type(s) for *: 'dict' and 'int'`
+- `foo(4)` ->  `12` |
+- `foo(True)` -> | `3` |
+- `foo(False)` -> | `0` |
+- `foo("what?!")` -> | `"what?!what?!what?!"` |
+- `foo({'one':'uno'})` -> | `unsupported operand type(s) for *: 'dict' and 'int'` |
 
 ---
 
