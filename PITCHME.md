@@ -301,8 +301,6 @@ y que
 
 Los métodos lucen sintácticamente equivalentes a <span class="red">keywords</span>
 
-Ejemplo
-
 ```scala
     object Lunar extends Baysick {
       def main(args:Array[String]) = {
@@ -342,6 +340,18 @@ decelerate a negative"
       }
     }
 ```
+---
+###`for` como <span class="red">generadores</span>
+
+Las iteraciones pueden retornar valores
+
+Si usan la keyword <span class="red">yield</span>
+
+```scala
+val g = for {i <- 'a' to 'z' if (i >= 'm')} yield i
+```
+
+
 ---
 ###Evaluación perezosa
 
