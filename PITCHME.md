@@ -148,8 +148,8 @@ Y Scala lo hace
 Es decir:
 
 - Type-safe &#10003;
-- Código más <span class="red">legible</span> &#10003; |
-- Código <span class="dgray">menos repetitivo</span> &#10003; |
+- <span>Código más <span class="red">legible</span> &#10003;</span> |
+- <span>Código <span class="dgray">menos repetitivo</span> &#10003; </span> |
 
 ---
 ###Tipos de datos inmutables
@@ -197,6 +197,8 @@ a = a + b;
 Porque `+` está sobrecargado para Strings (cool)
 ¿Cómo lo hago para listas? (O números complejos, o etc) |
 <span class="dgray">Sorry, noup</span>
+
++++
 
 
 ---
