@@ -20,3 +20,8 @@
 .dgray {
   color: var(--dgray);
 }
+
+.paren {
+  color:gray;
+  font-size:0.6em;
+}
