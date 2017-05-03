@@ -25,14 +25,26 @@ Programación Funcional
 
 <span class="paren">[ Java Bitecode -> JVM ]</span>
 
-<span class="paren">[ Uso de librarias sin distinción</span>
+<span class="paren">[ Uso de librarias sin distinción ]</span>
 
 ---
 
-### Lo mejor de dos mundos
-### No more <span style="color: #666666">Powerpoint.</span>
+#### <span class="red">Lo mejor de dos mundos
+### Objetos 
+
+<span class="paren">[ Reutilización de código ]</span>
+
+<span class="paren">[ Encapsulamiento ]</span>
+
+### Funcional
+
+<span class="paren">[ Inmutabilidad ]</span>
+<span class="paren">[ Mónadas ]</span>
+<span class="paren">[ Inferencia de tipos ]</span>
+<span class="paren">[ Pattern matching ]</span>
+
 <br>
-### Just <span style="color: #e49436">Markdown</span>. Then <span style="color: #e49436">Git-Commit</span>.
+
 
 ---
 
