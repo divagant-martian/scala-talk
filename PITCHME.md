@@ -76,7 +76,7 @@ Programación Funcional
 <span class="red">Compilado</span>
 ```scala
 object HelloWorld extends App {
-println("Hello, World!")
+  println("Hello, World!")
 }
 ```
 <span class="red">Interpretado</span>
@@ -96,7 +96,7 @@ Un ejemplo en <span class="dgray">Python</span>
 
 ```python
 def foo(x):
-return x*3
+	return x*3
 ```
 
 Qué tipo de dato recibe?
@@ -194,12 +194,21 @@ a = a + b;
 
 +++
 
-Porque `+` está sobrecargado para Strings (cool)
-¿Cómo lo hago para listas? (O números complejos, o etc) |
+Porque `+` está <span class="red">sobrecargado</span> para Strings (cool)
+
+¿Cómo lo hago para listas? (O números complejos, o etc)
+
 <span class="dgray">Sorry, noup</span>
 
 +++
 
+En Scala es posible
+
+#### operador = método
+
+tiene algunas implicaciones interesantes
+
+<span class="paren">[ más en un momento ]</span>
 
 ---
 ###Evaluación perezosa
