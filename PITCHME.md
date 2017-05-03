@@ -173,13 +173,38 @@ Por ejemplo
 Estructuras de alto nivel <span class="red">más eficientes</span>
 
 ---
+###Sobrecarga de operadores
+
++++
+
+Por qué este resultado
+
+```java
+...
+("Hola"+"Mundo").equals("HolaMundo")
+...
+```
+
+Mientras que este no compila?
+```java
+int a[] = {1,2,3};
+int b[] = {4,5};
+a = a + b;
+```
+
++++
+
+Porque `+` está sobrecargado para Strings (cool)
+¿Cómo lo hago para listas? (O números complejos, o etc) |
+<span class="dgray">Sorry, noup</span>
+
+
+---
 ###Evaluación perezosa
 
 ---
 ###Programación de alto orden
 
----
-###Sobrecarga de operadores
 
 ---
 <span style="color: #e49436">STEP 2. GIT-COMMIT</span>
