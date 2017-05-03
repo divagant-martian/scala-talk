@@ -105,15 +105,17 @@ Qué tipo de dato retorna?
 
 +++
 
-- <span class="paren">`foo(4) == 12`</span>
-- <span class="paren">`foo("what?!") == "what?!what?!what?!"`</span> |
-- <span class="paren">`foo(True) == 3`</span> |
-- <span class="paren">`foo(False) == 0`</span> |
-- <span class="dgray">`foo({'one':'uno'})`</span> -> | `unsupported operand type(s) for *: 'dict' and 'int'` |
+`foo(4)` -> | `12`
+`foo(True)` -> | `3`
+`foo(False)` -> | `0`
+`foo("what?!")` -> | `"what?!what?!what?!"`
+`foo({'one':'uno'})` -> | `unsupported operand type(s) for *: 'dict' and 'int'`
 
 ---
 
 ###Inferencia de tipos
+
++++
 
 Esto es obvio
 
@@ -138,6 +140,7 @@ int mi3 = tres();
 ```
 
 <span class="red">Pero es posible</span>
+Y Scala lo hace
 
 ---
 ###Tipos de datos inmutables
