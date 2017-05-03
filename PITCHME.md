@@ -147,6 +147,16 @@ Y Scala lo hace
 ---
 ###Tipos de datos inmutables
 
++++
+
+- [ ] Thread-safe
+- [ ] Eficiencia
+- [ ] Visibilidad != Mutabilidad (Encapsulamiento)
+
++++
+
+Por ejemplo
+
 
 ---
 ###Evaluación peresoza
