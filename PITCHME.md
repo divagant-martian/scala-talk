@@ -109,7 +109,7 @@ Qué tipo de dato retorna?
 - `foo(True)` -> `3` |
 - `foo(False)` ->  `0` |
 - `foo("what?!")` ->  `"what?!what?!what?!"` |
-- `foo({'one':'uno'})` ->
+- `foo({'one':'uno'})` -> |
   `unsupported operand type(s) for *: 'dict' and 'int'` |
 
 ---
@@ -140,7 +140,8 @@ private int tres() { return 3; }
 int mi3 = tres();
 ```
 
-<span class="red">Pero es posible</span>
+Pero <span class="red">es posible</span>
+
 Y Scala lo hace
 
 ---
