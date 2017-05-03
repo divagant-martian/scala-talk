@@ -32,16 +32,11 @@ Programación Funcional
 #### <span class="red">Lo mejor de dos mundos
 ### Objetos 
 
-<span class="paren">[ Reutilización de código ]</span>
-
-<span class="paren">[ Encapsulamiento ]</span>
+<span class="paren">[ Reutilización de código, Encapsulamiento, ... ]</span>
 
 ### Funcional
 
-<span class="paren">[ Inmutabilidad ]</span>
-<span class="paren">[ Mónadas ]</span>
-<span class="paren">[ Inferencia de tipos ]</span>
-<span class="paren">[ Pattern matching ]</span>
+<span class="paren">[ Inmutabilidad, Mónadas, Inferencia de tipos, Pattern matching, ... ]</span>
 
 <br>
 
