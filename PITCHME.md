@@ -38,14 +38,19 @@ Programación Funcional
 <span class="paren">[ Inmutabilidad, Mónadas, Inferencia de tipos, Pattern matching, ... ]</span>
 
 ---
-#### <span class="red">¿Quién lo usa?
+#### <span class="red">¿Quién lo usa?</span>
 
-![adop](https://upload.wikimedia.org/wikipedia/en/5/5e/Diagram_of_Job_trends_of_Scala%2C_Groovy%2C_Clojure_and_Kotlin_by_Indeed.png)
+<img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-square2-128.png" alt="LinkedIn" height="100">
+<img src="https://edubloxtutor.com/wp-content/uploads/2016/11/twitter-3-xxl.png" alt="Twitter" height="100">
+<img src="https://www.shareicon.net/data/128x128/2016/07/16/796802_logo_512x512.png" alt="Foursquare" height="100">                                 
+<img src="" alt="Netflix" height="100">                                   
+<img src="" alt="Tumblr" height="100">                                    
+<img src="" alt="The Guardian" height="100">                              
+<img src="" alt="Sony" height="100">                                      
+<img src="" alt="AirBnB" height="100">                                    
+<img src="" alt="empresa" height="100">                                   
+<img src="" alt="Meetup" height="100">  
 
-
-<span style="color: #e49436">STEP 1. PITCHME.md</span>
-
-![MARKDOWN](https://d1z75bzl1vljy2.cloudfront.net/hello-world/markdown.png)
 
 Create GitPitch slideshow content using GitHub flavored Markdown in your favorite editor.
 
