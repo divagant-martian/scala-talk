@@ -299,7 +299,7 @@ y que
 
 ####Pero.. ¿para qué?
 
-Los métodos lucen sintácticamente equivalentes a <span class="red">keywords</span>
+Los métodos lucen como <span class="red">keywords</span>
 
 ```scala
     object Lunar extends Baysick {
@@ -353,21 +353,54 @@ val g = for {i <- 'a' to 'z' if (i >= 'm')} yield i
 
 
 ---
-###Evaluación perezosa
+###Otras ventajas
 
 +++
+
+####Evaluación perezosa
+
 Las ventajas que ya conocemos
 
 Ej: Streams infinitos
 
----
-###Programación de alto orden
++++
 
-- Parameterizable parallelism
-- Improved program modularity
-- Scalable programming
-- Recursion
-- Zero run-time cost in most cases
-- Expressiveness of a visual syntax
+####Programación de alto orden
+
+- El poder de pasar funciones por parámetros
+- Retornar funciones como parámetros|
+- <span class="red">Clausuras</span>|
+
++++
+<span class="red">Clausuras</span>
+
+Funciones que viajan con un ambiente
+
++++
+
+####Creación de métodos asociativos a derecha
+
+Esto ya lo conocemos
+
+Qué significa `1|2|3|nil` ?
+
++++
+
+<span class="red">No</span> significa `((1|2)|3)|nil`
+
+En realidad es `1|(2|(3|nil)))`
++++
+
+Se pueden crear si el nombre del método termina en `:`
+
++++
+
+Muchas más
+
+- Funciones anónimas|
+- Parámetros opcionales|
+- Pattern Matching|
+- Destructuración|
+- <span class="red">Mónadas</span>|
 
 ---
