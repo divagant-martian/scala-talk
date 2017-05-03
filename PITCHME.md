@@ -1,6 +1,6 @@
 <style type="text/css"> :root{ var-Red:#DE3423 ;} </style>
 
- ![LOGO](https://github.com/zombiefungus/scala-talk/raw/master/images/scala-logo.png)
+ ![scala-img](https://github.com/zombiefungus/scala-talk/raw/master/images/scala-logo.png)
 
 
 #### Get the word out
