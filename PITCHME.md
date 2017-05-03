@@ -75,6 +75,21 @@ Programación Funcional
 
 ---
 
+##Hola Mundo <span class="paren">4 formas</span>
+
+Compilado
+```scala
+object HelloWorld extends App {
+println("Hello, World!")
+}
+```
+Interpretado
+```scala
+println("Hello, World!")
+```
+
+---
+
 <span style="color: #e49436">STEP 2. GIT-COMMIT</span>
 
 ![TERMINAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/terminal.png)
