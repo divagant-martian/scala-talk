@@ -93,18 +93,38 @@ println("Hello, World!")
 
 ---
 ###Fuerte sistema de tipado estático
+- [x] Typesafe
+```python
+def foo(x):
+return x*3
+```
+`foo(4) == 12`
+
+`foo("what?!") == "what?!what?!what?!"`
+
+`foo(True) == 3`
+
+`foo(False) == 0`
+
+`foo({'one':'uno'})` -> `unsupported operand type(s) for *: 'dict' and 'int'`
+
+---
 
 ###Inferencia de tipos
 
+---
 ###Tipos de datos inmutables
 
+---
 ###Evaluación peresoza
 
+---
 ###Programación de alto orden
 
+---
 ###Sobrecarga de operadores
 
-###
+---
 <span style="color: #e49436">STEP 2. GIT-COMMIT</span>
 
 ![TERMINAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/terminal.png)
