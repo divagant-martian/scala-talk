@@ -156,7 +156,9 @@ Es decir:
 +++
 
 &#9745; Thread-safe
+
 &#9745; Eficiencia |
+
 &#9745; Visibilidad != Mutabilidad (Encapsulamiento) |
 
 +++
