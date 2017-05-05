@@ -76,7 +76,7 @@ Programación Funcional
 <span class="red">Compilado</span>
 ```scala
 object HelloWorld extends App {
-	println("Hello, World!")
+println("Hello, World!")
 }
 ```
 <span class="red">Interpretado</span>
@@ -96,7 +96,7 @@ Un ejemplo en <span class="dgray">Python</span>
 
 ```python
 def foo(x):
-	return x*3
+return x*3
 ```
 
 Qué tipo de dato recibe?
@@ -155,9 +155,9 @@ Es decir:
 
 +++
 
-- Thread-safe &#10003;
-- Eficiencia &#10003; |
-- Visibilidad != Mutabilidad (Encapsulamiento) &#10003; |
+&#9745; Thread-safe
+&#9745; Eficiencia |
+&#9745; Visibilidad != Mutabilidad (Encapsulamiento) |
 
 +++
 
